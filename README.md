@@ -12,6 +12,7 @@ This project uses GitHub Actions to automatically run the script on a schedule.
 ## Github Action Cron Job (recommended)
 
 Fork this repository and let the github action do the hard work for you.
+You need to give the Job or Workflow at least the `contents: write` permission, otherwise the job will fail.
 
 ## Locally
 Install the requests library by running `pip install requests` and then
