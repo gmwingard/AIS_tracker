@@ -328,3 +328,7 @@
 {"POSIX": 1677891540.0462668, "name": "Voyager of the Seas", "shipid": "374600", "imo": "9161716", "lat": 17.41706, "lon": -62.24988}
 {"POSIX": 1677891540.0462945, "name": "Wonder of the Seas", "shipid": "5873566", "imo": "9838345", "lat": 18.7932, "lon": -76.80058}
 {"POSIX": 1677891540.0463183, "name": "Symphony of the Seas", "shipid": "5345430", "imo": "9744001", "lat": 25.86902, "lon": -77.98572}
+{"POSIX": 1677932426.0720868, "name": "Harmony of the Seas", "shipid": "372127", "imo": "9682875", "lat": 26.0868, "lon": -80.11974}
+{"POSIX": 1677932426.0723515, "name": "Voyager of the Seas", "shipid": "374600", "imo": "9161716", "lat": 18.01223, "lon": -63.04864}
+{"POSIX": 1677932426.0723724, "name": "Wonder of the Seas", "shipid": "5873566", "imo": "9838345", "lat": 18.7932, "lon": -76.80058}
+{"POSIX": 1677932426.0723917, "name": "Symphony of the Seas", "shipid": "5345430", "imo": "9744001", "lat": 25.77322, "lon": -80.1596}
