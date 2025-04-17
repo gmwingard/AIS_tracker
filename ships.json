@@ -1,22 +1,7 @@
 [
     {
-    "name": "Harmony of the Seas",
-    "shipid": "372127",
-    "imo": "9682875"
-},
-{
-    "name": "Voyager of the Seas",
-    "shipid": "374600",
-    "imo": "9161716"
-},
-{
-    "name": "Wonder of the Seas",
-    "shipid": "5873566",
-    "imo": "9838345"
-},
-{
-    "name": "Symphony of the Seas",
-    "shipid": "5345430",
-    "imo": "9744001"
-}
+    "name": "Zenith Leader",
+    "shipid": "192594",
+    "imo": "9384942"
+    }
 ]
